@@ -11,7 +11,7 @@ Specializing in electronics, and firmware development.
 STM32 · ESP32 · Linux
 
 ### 💻 Programming Languages
-Python · C++
+Embedded C · C++ · Python
 
 ### 📐 EDA (Electronics Design)
 KiCad · Altium
