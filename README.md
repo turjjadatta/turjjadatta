@@ -5,17 +5,18 @@ Specializing in electronics, and firmware development.
 
 ---
 
-### 🛠️ Tools & Technologies
-Embedded Platfroms 
+## 🛠️ Tools & Technologies
+
+### 🔌 Embedded Platforms
 STM32 · ESP32 · Linux
 
-Languages 
-Python · C++ 
+### 💻 Programming Languages
+Python · C++
 
-EDA
-KiCad · Altium 
+### 📐 EDA (Electronics Design)
+KiCad · Altium
 
-CAD
+### 🧩 CAD / Mechanical Design
 Fusion 360
 
 ### 🔬 What I Build
