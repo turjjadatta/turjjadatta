@@ -20,7 +20,7 @@ KiCad · Altium
 Fusion 360
 
 ## 🔬 What I Build
-Medical devices · IoT systems · Wearables · Robotics
+Medical devices · IoT Devices · Wearables · Robotics
 
 ## 🚧 Current Focus
 Pocket-sized robotic system with multi-sensor fusion for supporting children with anxiety disorders
