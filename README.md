@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Turjja 
 
 ## Hardware Product Development Engineer
-Specializing in electronics, embedded systems, and firmware development.
+Specializing in electronics, and firmware development.
 
 ---
 
