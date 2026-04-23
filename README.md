@@ -6,7 +6,17 @@ Specializing in electronics, and firmware development.
 ---
 
 ### 🛠️ Tools & Technologies
-STM32 · ESP32 · Python · C++ · Linux · KiCad · Altium · Fusion 360
+Embedded Platfroms 
+STM32 · ESP32 · Linux
+
+Languages 
+Python · C++ 
+
+EDA
+KiCad · Altium 
+
+CAD
+Fusion 360
 
 ### 🔬 What I Build
 Medical devices · IoT systems · Wearables · Robotics
