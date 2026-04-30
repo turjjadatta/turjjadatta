@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Turjja 
 
-## Hardware Product Development Engineer
+## Mechatronics Engineer
 Specializing in electronics, and firmware development.
 
 ---
